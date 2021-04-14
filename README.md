@@ -6,6 +6,10 @@ Steps for configuration
 - sudo reboot
 - sudo ./updateMac.sh 
 - sudo ./updateName.sh + "assign name for view bluetooth"
+
+SI SE QUIERE OMITIR LO DE AGREGAR NOMBRE MANUAL HACER ESTO:
+-sudo ./boot.sh
+
 - cd MouseV0.1/server
 
 CREATE SCREEN FOR THIS STEP THEN CONTINUE WITH 
