@@ -69,15 +69,25 @@ EJEMPLO , HACIENDO UN CUADRO
 copiar y pegar en terminal para hacer que se ejecute de un ave
 
 sudo ./mouse_emulate.py 0 0 0 0
+
 sudo ./mouse_emulate.py 2 0 0 0 
+
 sudo ./mouse_emulate.py 1 0 0 0
+
 sudo ./mouse_emulate.py 1 127 0 0
+
 sudo ./mouse_emulate.py 1 0 127 0 
+
 sudo ./mouse_emulate.py 1 128 0 0
+
 sudo ./mouse_emulate.py 1 0 128 0
+
 sudo ./mouse_emulate.py 0 0 0 0 
+
 sudo ./mouse_emulate.py 0 128 0 0 
+
 sudo ./mouse_emulate.py 2 0 0 0
+
 sudo ./mouse_emulate.py 0 0 0 0
 
 
