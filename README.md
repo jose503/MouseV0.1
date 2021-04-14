@@ -5,7 +5,7 @@ Steps for configuration
 - sudo ./setup.sh (install libraries requeried)
 - sudo reboot
 - sudo ./updateMac.sh 
-- sudo ./updateName.sh + <assign name for view bluetooth>
+- sudo ./updateName.sh + "assign name for view bluetooth"
 - cd MouseV0.1/server
 
 CREATE SCREEN FOR THIS STEP THEN CONTINUE WITH 
@@ -13,7 +13,7 @@ CREATE SCREEN FOR THIS STEP THEN CONTINUE WITH
 
 - cd MouseV0.1/mouse
 
-- sudo ./mouse_emulate.py <ADD COORDINATES IN FORMAT OF 0 0 0 0>
+- sudo ./mouse_emulate.py "ADD COORDINATES IN FORMAT OF 0 0 0 0"
 
 Example:
 
