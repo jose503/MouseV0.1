@@ -7,8 +7,8 @@ Steps for configuration
 - sudo ./updateMac.sh 
 - sudo ./updateName.sh + "assign name for view bluetooth"
 
-SI SE QUIERE OMITIR LO DE AGREGAR NOMBRE MANUAL HACER ESTO:
--sudo ./boot.sh
+SI SE QUIERE OMITIR LO DE AGREGAR NOMBRE MANUAL HACER ESTO(nombre por defecto es MouseV0.1):
+-sudo ./boot.sh 
 
 - cd MouseV0.1/server
 
